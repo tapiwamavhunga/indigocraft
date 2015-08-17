@@ -13,6 +13,7 @@
  	 * @hooked storefront_post_content() - 30
 	 */
 	do_action( 'storefront_loop_post' );
+	do_action( 'storefront_loop_post' );
 	?>
 
 </article><!-- #post-## -->
